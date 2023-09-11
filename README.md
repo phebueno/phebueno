@@ -1,8 +1,5 @@
-### Olá, sou o Fernando  👋
-
-
-
-## Físico biomolecular, futuro Engenheiro de Software
+## Desenvolvedor FullStack
+Sou o Fernando e este é o meu perfil!
 Sou formado em Ciências Físicas e Biomoleculares pela USP, e técnico em informática pelo IFSP - Campus Cubatão. Atualmente estou estudando engenharia de software pela [Driven](https://www.driven.com.br/).
 
 No momento procuro me atualizar sobre as plataformas mais usadas no mercado para desenvolvimento FullStack. Também possuo experiência com mineração de dados/machine learning e modelagem de sistemas físicos para operações matemáticas e processamento de dados. 
