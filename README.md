@@ -61,7 +61,7 @@ No momento procuro me atualizar sobre as plataformas mais usadas no mercado para
 <details>
   <summary>⚡Github Stats</summary>
   <img height=170 src="https://github-readme-stats.vercel.app/api?username=phebueno&show_icons=true&theme=dark" alt="Phebueno's GitHub stats"/>
-  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" alt="Phebueno's Top Langs"/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phebueno&layout=compact&theme=dark" alt="Phebueno's Top Langs"/>
 </details>
 <!--
 **phebueno/phebueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
